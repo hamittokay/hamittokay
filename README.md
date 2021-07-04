@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamit</h1>
 <h3 align="center">I’m Hamit, a frontend developer and a part time CS student currently living in Irvine, California.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamittokay&label=Profile%20views&color=0e75b6&style=flat" alt="hamittokay" /> </p>
-
 - 🌱 I’m currently learning **GoLang, MongoDB**
 
 - 👨‍💻 My Portfolio [https://hamittokay.dev](https://hamittokay.dev)
